@@ -8,6 +8,6 @@ namespace ProjectGit
 {
     internal class RomanClass
     {
-
+        private string _alexeySign = "Alexey was here";
     }
 }
